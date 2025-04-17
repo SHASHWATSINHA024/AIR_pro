@@ -18,7 +18,7 @@ conda create -n query_expansion_ir python=3.8
 conda activate query_expansion_ir
 
 
-pip install -r requirements.txt
+
 
 
 pip install scikit-learn nltk numpy
