@@ -30,13 +30,14 @@ pip install gensim
 
 
 
-run 
+run this particular in python
 
 import nltk
 nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('wordnet')
 
+back to terminal
 
 python -m nltk.downloader punkt stopwords wordnet
 
